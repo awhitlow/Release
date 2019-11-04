@@ -1,0 +1,68 @@
+-----Moods------
+1. Anxious
+2. Fatigued
+3. Irritable
+4. Cheerful 
+5. Motivated
+6. Stressed
+7. Heartbroken
+8. Confident
+9. Calm
+10. Angry
+11. Uninspired
+
+----Music Playlists-----
+1. Anxious
+  High: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcCnTAt8CfNe" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Medium: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX0jgyAiPl8Af" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Low: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX5Q5wA1hY6bS" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  
+2. Fatigued:
+  High: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXdxcBWuJkbcy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Medium: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX3ohNxI5tB79" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Low: 
+  
+3. Irritable:
+  High: 
+  Medium:
+  Low:
+  
+4. Cheerful 
+  High: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWSf2RDTDayIx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Medium: <iframe src="https://open.spotify.com/embed/playlist/1h90L3LP8kAJ7KGjCV2Xfd" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Low: <iframe src="https://open.spotify.com/embed/playlist/6Qf2sXTjlH3HH30Ijo6AUp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  
+5. Motivated
+  High:
+  Medium:
+  Low:<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXdxcBWuJkbcy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  
+6. Stressed
+  High: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWUvQoIOFMFUT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Medium:
+  Low: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXca8AyWK6Y7g" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  
+7. Heartbroken
+  High:<iframe src="https://open.spotify.com/embed/album/4KYDYEtOF5WIz6oH0BbiZ5" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Medium: 
+  Low: 
+  
+8. Confident: 
+  High: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX6GwdWRQMQpq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Medium: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX1tyCD9QhIWF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Low: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX4fpCWaHOned" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+9. Calm:
+  High: 
+  Medium: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX9j444F9NCBa" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Low: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXaImRpG7HXqp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  
+10. Angry:
+  High:
+  Medium:<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWVu0D7Y8cYcs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Low:
+  
+11. Uninspired:
+  High: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX56qfiUZBncF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Medium: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcsT4WKI8W8r" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Low:
