@@ -20,12 +20,12 @@
 2. Fatigued:
   High: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXdxcBWuJkbcy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   Medium: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX3ohNxI5tB79" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  Low: 
+  Low: <iframe src="https://open.spotify.com/playlist/4Y73JaqmFygDEaaa8z5EbI" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   
 3. Irritable:
-  High: 
-  Medium:
-  Low:
+  High: <iframe src="https://open.spotify.com/playlist/69ivExk8RXsCRVbVQkSrMu" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Medium:<iframe src="https://open.spotify.com/playlist/6k0ReSZztHvxOEPKCkjySJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Low:<iframe src="https://open.spotify.com/playlist/3dWhZR9xkLv9X1RQvn2mgV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   
 4. Cheerful 
   High: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWSf2RDTDayIx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -33,19 +33,19 @@
   Low: <iframe src="https://open.spotify.com/embed/playlist/6Qf2sXTjlH3HH30Ijo6AUp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   
 5. Motivated
-  High:
-  Medium:
+  High:<iframe src="https://open.spotify.com/playlist/3ybnF1ZkG9Y2LZhr15eFQi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Medium:<iframe src="https://open.spotify.com/playlist/7qAKNuNxnYFjxuYtZQJ6qL" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   Low:<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXdxcBWuJkbcy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   
 6. Stressed
   High: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWUvQoIOFMFUT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  Medium:
+  Medium:<iframe src="https://open.spotify.com/playlist/37i9dQZF1DX9UhtB5CtZ7e" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   Low: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXca8AyWK6Y7g" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   
 7. Heartbroken
   High:<iframe src="https://open.spotify.com/embed/album/4KYDYEtOF5WIz6oH0BbiZ5" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  Medium: 
-  Low: 
+  Medium: <iframe src="https://open.spotify.com/playlist/37i9dQZF1DWXxauMBOQPxX" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  Low: <iframe src="https://open.spotify.com/playlist/2IFYCIqAWXtRT5ZUYjCmEY" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   
 8. Confident: 
   High: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX6GwdWRQMQpq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -53,16 +53,16 @@
   Low: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX4fpCWaHOned" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 9. Calm:
-  High: 
+  High: <iframe src="https://open.spotify.com/playlist/37i9dQZF1DX1s9knjP51Oa" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   Medium: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX9j444F9NCBa" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   Low: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXaImRpG7HXqp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   
 10. Angry:
-  High:
+  High:<iframe src="https://open.spotify.com/playlist/6pgZ4wJj54Fujy4RJDPWaX" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   Medium:<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWVu0D7Y8cYcs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  Low:
+  Low:<iframe src="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   
 11. Uninspired:
   High: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX56qfiUZBncF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   Medium: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcsT4WKI8W8r" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  Low:
+  Low:<iframe src="https://open.spotify.com/playlist/37i9dQZF1DX5yf1SQXKtUJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
