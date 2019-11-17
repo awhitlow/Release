@@ -66,3 +66,49 @@
   High: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX56qfiUZBncF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   Medium: <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcsT4WKI8W8r" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   Low:<iframe src="https://open.spotify.com/playlist/37i9dQZF1DX5yf1SQXKtUJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  
+----Meditation Playlists-----
+
+1. Anxious
+  Low: <iframe width="560" height="315" src="https://www.youtube.com/embed/kjS_Li4eSTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Medium/High: <iframe width="560" height="315" src="https://www.youtube.com/embed/LIqIP8OnHSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+2. Fatigued
+  Low: <iframe width="560" height="315" src="https://www.youtube.com/embed/Ti4OPTvPOrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Medium/High: <iframe width="560" height="315" src="https://www.youtube.com/embed/_kQ1lh2tC2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+3. Irritable
+  Low: <iframe width="560" height="315" src="https://www.youtube.com/embed/EAJ9IXL4wY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Medium/High: <iframe width="560" height="315" src="https://www.youtube.com/embed/CCgij4aHP7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+4. Cheerful 
+  Low:<iframe width="560" height="315" src="https://www.youtube.com/embed/lgUXcKU9Pa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Medium/High: <iframe width="560" height="315" src="https://www.youtube.com/embed/mMjOYxOCt08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+5. Motivated
+  Low: <iframe width="560" height="315" src="https://www.youtube.com/embed/yh-V9q93XC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Medium/High: <iframe width="560" height="315" src="https://www.youtube.com/embed/LkS8W5apEvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+6. Stressed
+  Low: <iframe width="560" height="315" src="https://www.youtube.com/embed/9Dce7oiz3dI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Medium/High: <iframe width="560" height="315" src="https://www.youtube.com/embed/LIqIP8OnHSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+7. Heartbroken
+  Low: <iframe width="560" height="315" src="https://www.youtube.com/embed/9toOkY3yLzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Medium/High: <iframe width="560" height="315" src="https://www.youtube.com/embed/e8PKCiLjg2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+8. Confident
+  Low: <iframe width="560" height="315" src="https://www.youtube.com/embed/s-Tbo7XgJ00" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Medium/High: <iframe width="560" height="315" src="https://www.youtube.com/embed/Irbopi3Hg20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+9. Calm
+  Low: <iframe width="560" height="315" src="https://www.youtube.com/embed/PRfrrhDRJ4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Medium/High: <iframe width="560" height="315" src="https://www.youtube.com/embed/AlUL9RdAggY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+10. Angry
+  Low: <iframe width="560" height="315" src="https://www.youtube.com/embed/DryPWw9E9_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Medium/High: <iframe width="560" height="315" src="https://www.youtube.com/embed/jE560Zu0hZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+11. Uninspired
+  Low: <iframe width="560" height="315" src="https://www.youtube.com/embed/S7U_fXN8tQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Medium/High: <iframe width="560" height="315" src="https://www.youtube.com/embed/NSqEYFsF3w8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
