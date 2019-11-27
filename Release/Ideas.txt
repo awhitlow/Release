@@ -116,7 +116,7 @@
 ----Exercise/Yoga Videos-----
 1. Anxious
   Low: <iframe width="560" height="315" src="https://www.youtube.com/embed/Enz98dDXQfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  Medium: 
+  Medium: <iframe width="560" height="315" src="https://www.youtube.com/embed/KL4Yeus6EJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   High: <iframe width="560" height="315" src="https://www.youtube.com/embed/bJJWArRfKa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 2. Fatigued
@@ -161,11 +161,68 @@
 
 10. Angry
   Low: <iframe width="560" height="315" src="https://www.youtube.com/embed/SsS8TJDN-j0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  Medium: <iframe width="560" height="315" src="https://www.youtube.com/embed/BsVq5R_F6RA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Medium: <iframe width="560" height="315" src="https://www.youtube.com/embed/YdqDY4vA1xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   High: <iframe width="560" height="315" src="https://www.youtube.com/embed/BsVq5R_F6RA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/BsVq5R_F6RA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IJH_8jsyrlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 11. Uninspired
   Low:<iframe width="560" height="315" src="https://www.youtube.com/embed/yjYrxcGSWX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   Medium:<iframe width="560" height="315" src="https://www.youtube.com/embed/maNr_0zK5VQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   High: <iframe width="560" height="315" src="https://www.youtube.com/embed/86x-u-tz0MA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+ -----Quotes------
+1. Anxious
+  Low: “Smile, breathe, and go slowly.”– Thich Nhat Hanh
+  Medium: “Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.” – Deepak Chopra
+  High: “I promise you nothing is as chaotic as it seems. Nothing is worth diminishing your health. Nothing is worth poisoning yourself into stress, anxiety, and fear.”
+– Steve Maraboli
+  
+2. Fatigued
+  Low: "Inspiration is one thing and you can't control it, but hard work is what keeps the ship moving. Good luck means, work hard. Keep up the good work." - Kevin Eubanks
+  Medium:The biggest wall you’ve gotta climb is the one you build in your mind.
+  High: “Press on – nothing can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Perseverance and determination alone are omnipotent.” – Calvin Coolidge
+  
+3. Irritable
+  Low: "Laughter and tears are tears are both responses to frustration and exhaustion. I myself prefer to laugh, since there is less cleaning up to do afterward." -Kurt Vonnegut
+  Medium: "Frustration is a sign I am acting independently. The more you try your own way, the tighter the doors will stay closed." -Joyce Mercer
+  High: "Our frustration is greater when we have much and want more than when we have nothing and want some. We are less dissatisfied when we lack many things than when we seem to lack but one thing." -Eric Hoffer
+  
+4. Cheerful 
+  Low: “Don't rely on someone else for your happiness and self-worth. Only you can be responsible for that. If you can't love and respect yourself – no one else will be able to make that happen. Accept who you are – completely; the good and the bad – and make changes as YOU see fit – not because you think someone else wants you to be different.” -Stacey Charter
+  Medium: “If you want happiness for an hour — take a nap. If you want happiness for a day — go fishing. If you want happiness for a year — inherit a fortune. If you want happiness for a lifetime — help someone else.” -Chinese Proverb
+  High: “Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.” -Buddha
+  
+5. Motivated
+  Low: "It does not matter how slowly you go as long as you do not stop."-Confucius
+  Medium: "The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence." - Confucius
+  High: “If you really want to eat, keep climbing. The fruits are on the top of the tree. Stretch your hands and keep stretching them. Success is on the top, keep going.”― Israelmore Ayivor 
+  
+6. Stressed
+  Low: “Relax, Recharge and Reflect. Sometimes it’s OK to do nothing.” ― Izey Victoria Odiase
+  Medium: "It's not the load that breaks you, it's how you carry it." -Lou Holtz
+  High: "One of the best pieces of advice I ever got was from a horse master. He told me to go slow to go fast. I think that applies to everything in life. We live as though there aren't enough hours in the day but if we do each thing calmly and carefully we will get it done quicker and with much less stress." -Viggo Mortensen
+  
+7. Heartbroken
+  Low: “Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.”— Lucille Ball
+  Medium: “The emotion that can break your heart is sometimes the very one that heals it…” – Nicholas Sparks
+  High: “Let go. Why do you cling to pain? There is nothing you can do about the wrongs of yesterday. It is not yours to judge. Why hold on to the very thing which keeps you from hope and love?” – Leo Buscaglia
+  
+8. Confident
+  Low: "I think it's brave that you get up in the morning even if your soul is weary and your bones ache for a rest. I think it's brave that you keep on living even if you don't know how to anymore. I think it's brave that you push away the waves rolling in everyday and you decide to fight. I know there are days when you feel like giving up but I think it's brave that you never do." -Lana Rafaela
+  Medium:"Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it." -Bruce Lee
+  High: "Because one believes in oneself, one doesn't try to convince others. Because one is content with oneself, one doesn't need others' approval. Because one accepts oneself, the whole world accepts him or her."-Lao Tzu
+  
+9. Calm
+  Low: “Relax, Recharge and Reflect. Sometimes it’s OK to do nothing.”― Izey Victoria Odiase
+  Medium: “The fact is, inner peace isn't something that comes when you finally paint the whole house a nice shade of cream and start drinking herbal tea. Inner peace is something that is shaped by the wisdom that 'this too shall pass' and is fired in the kiln of self-knowledge...” ― Tania Ahsan
+  High: “Sometimes, the most productive thing that you can do is to step outside and do nothing... relax and enjoy nature.” ― Melanie Charlene
+  
+10. Angry
+  Low: "Your attitude, not your aptitude, will determine your altitude." -Zig Ziglar
+  Medium: "For every minute you remain angry, you give up sixty seconds of peace of mind." -Ralph Waldo Emerson
+  High: "Holding onto anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned." -Buddha
+  
+11. Uninspired
+  Low: "Creativity doesn't wait for that perfect moment. It fashions its own perfect moments out of ordinary ones." - Bruce Garrabrandt
+  Medium: “It is always the simple that produces the marvelous.” —Amelia Barr
+  High: "Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit.” —E. E. Cummings
