@@ -45,6 +45,26 @@
     button:hover {
         opacity: 0.8;
     }
+    .musiccontainer {
+        width: 320px;
+        padding: 0px;
+        border: 10px solid gainsboro;
+        margin: 30px;
+    }
+    .vidcontainer {
+        width: 600px;
+        padding: 0px;
+        border: 20px solid gainsboro;
+        margin: 30px;
+    }
+    .transbox {
+        width: 350px;
+        margin: 30px;
+        background-color: #ffffff;
+        border: 2px solid black;
+        opacity: 0.6;
+        filter: alpha(opacity=60); /* For IE8 and earlier */
+    }
     .imgcontainer {
         text-align: center;
         margin: 24px 0 12px 0;
@@ -185,9 +205,16 @@
     <!-- Header with image -->
     <header class="bgimg w3-display-container w3-grayscale-min" id="home">
     <div class="w3-container w3-white w3-padding-50"><center><h1>It looks like you're feeling inspiration! Here are some suggestions to support your creativity!</h1></center></div>
+        
     <center>
-    <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX5yf1SQXKtUJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/S7U_fXN8tQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="musiccontainer"><iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DX5yf1SQXKtUJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
+        
+    <div class="vidcontainer"><iframe width="560" height="315" src="https://www.youtube.com/embed/S7U_fXN8tQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    
+    <div class="transbox"><p><h1><b>"Creativity doesn't wait for that perfect moment. It fashions its own perfect moments out of ordinary ones." - Bruce Garrabrandt</b></h1></p></div>    
+    
+    <div class="vidcontainer"><iframe width="560" height="315" src="https://www.youtube.com/embed/yjYrxcGSWX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    
     </center>
     </header>
     
