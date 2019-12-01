@@ -1,0 +1,125 @@
+  <!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
+<style>
+body, html {height: 100%}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
+.menu {display: none}
+.bgimg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("http://40.media.tumblr.com/27dec2b697839a2e405d0baf2919f774/tumblr_nbnniztSYp1tk87oxo1_1280.jpg");
+    min-height: 90%;
+}
+</style>
+<body>
+
+
+
+<!-- Dashboard Container -->
+
+ <style>
+.button {
+  border-radius: 4px;
+  background-color: #F7D00F;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 300px;
+    height: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+</style>
+</head>
+<body>
+<!-- MENU: REFLECT | RELAX | JOURNAL -->
+    <div class="w3-container w3-black w3-padding-64 w3-xxlarge" id="menu">
+      <div class="w3-content">
+
+        <div class="w3-center w3-jumbo">
+        <a style="margin-bottom:64px" href = "intro.html">Release</a>
+        </div>
+        <div class="w3-row w3-center w3-border w3-border-dark-grey">
+          <a href="javascript:void(0)" onclick="openMenu(event, 'Reflect');" id="myLink">
+            <div class="w3-col s4 tablink w3-padding-large w3-hover-red">REFLECT</div>
+          </a>
+          <a href="javascript:void(0)" onclick="openMenu(event, 'Relax');">
+            <div class="w3-col s4 tablink w3-padding-large w3-hover-red">RELAX</div>
+          </a>
+          <a href="javascript:void(0)" onclick="openMenu(event, 'Journal');">
+            <div class="w3-col s4 tablink w3-padding-large w3-hover-red">JOURNAL</div>
+          </a>
+        </div>
+
+        <!--a href="#menu" class="w3-button w3-xxlarge w3-black">STRESSED</a-->
+
+
+        <div id="Reflect" class="w3-container menu w3-padding-32 w3-white">
+
+
+      </div>
+    </div>
+<!-- About Container -->
+<br>
+<div class="w3-container w3-padding-64 w3-white w3-xlarge" id="about">
+  <div class="w3-content">
+      <center>
+    <input id="hex" placeholder="Enter a hex color here"></input>
+  <canvas id="draw"></canvas>
+
+  <script src="ZenDrawing.js"></script>
+      </center>
+    </div>
+</div>
+<div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
