@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
+<style>
+body, html {height: 100%}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
+.menu {display: none}
+.bgimg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("http://40.media.tumblr.com/27dec2b697839a2e405d0baf2919f774/tumblr_nbnniztSYp1tk87oxo1_1280.jpg");
+    min-height: 90%;
+}
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top w3-hide-small">
+  <div class="w3-bar w3-xlarge w3-black w3-opacity w3-hover-opacity-off" id="myNavbar">
+    <a href="#" class="w3-bar-item w3-button">HOME</a>
+    <a href="#options" class="w3-bar-item w3-button">OPTIONS</a>
+    <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
+    <a href="#contact" class="w3-bar-item w3-button">CONTACT COUNSELOR</a>
+    <a href="signout.php" class="w3-bar-item w3-button">SIGN OUT</a>
+  </div>
+</div>
+
+<!-- Header with image -->
+<header class="bgimg w3-display-container w3-grayscale-min" id="home">
+  <div class="w3-display-middle w3-center">
+    <span class="w3-text-white w3-hide-small" style="font-size:100px">WELCOME<br> TO YOUR RELEASE</span>
+    <span class="w3-text-white w3-hide-large w3-hide-medium" style="font-size:60px"><b>WELCOME<br>YOUR NAME</b></span>
+  </div>
+</header>
+
+<!-- Dashboard Container -->
+
+ <style>
+.button {
+  border-radius: 4px;
+  background-color: #F7D00F;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 300px;
+    height: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+</style>
+</head>
+
+<!-- About Container -->
+<div class="w3-container w3-padding-64 w3-red w3-grayscale w3-xlarge" id="options">
+  <div class="w3-content">
+    <center>
+    <button class="button"><span><a href="Reflection.html">Journal </a></span></button>
+    <button class="button"><span><a href = "SelectMood.html">Mood Log </a></span></button>
+    <button class="button"><span><a href = "ZenDrawing.html">Zen Drawing </a></span></button>
+    <button class="button"><span><a href = "chat.html">Chat Room </a></span></button>
+    </center>
+    </div>
+</div>
+<div>
+    <div class="w3-container w3-padding-64 w3-blue w3-grayscale w3-xlarge" id="about">
+    <h1 class="w3-center w3-jumbo" style="margin-bottom:64px">About Release</h1><center>
+        <p>Sometimes, leading the hectic life of a college student can get in the way of our self-care routines. Need some time to revive yourself? Then welcome to "Release". This is a website dedicated to helping Howard University students manage their moods! Feel free to LOG how you feel, CREATE journal entries, INTERACT with our suggestions, and POST to our chatroom. </p></center>
+        <p><center><strong>The Creators? Howard Students Themselves</strong></center></p>
+        <center><img src="https://settlements.hirschbach.com/driverpayportal/Wellness/images/WellnessMainImage.jpg" style="width:80%" class="w3-margin-top w3-margin-bottom" border= "5"></center>
+  </div>
+</div>
+
+
+<div class="w3-container w3-padding-64 w3-grey w3-grayscale-min w3-xlarge" id ="contact">
+  <div class="w3-content">
+    <h1 class="w3-center w3-jumbo" style="margin-bottom:64px">Contact The Howard Counseling Office</h1>
+      <p>Call them at  <b>202-806-6870</b></p>
+    <p><span class="w3-tag">Walk-In Intake Hours:</span> 10 a.m. to 4 p.m. Monday, Wednesday, Friday</p>
+    <p class="w3-xxlarge"> Leave a message here:</p>
+    <form action="form_to_email.php" method="post" enctype="text/plain">
+      <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Name" name="Name"></p>
+    <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Your email address" name="email"></p>
+      <p><input class="w3-input w3-padding-16 w3-border" type="datetime-local" placeholder="Date and time" name="date" value="2019-12-04T20:00"></p>
+      <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Your message" required name="message"></p>
+      <p><button class="w3-button w3-light-grey w3-block" type="submit" value = "send">SEND</button></p>
+    </form>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-48 w3-xxlarge">
+</footer>
+
+
+
+</body>
+</html>
